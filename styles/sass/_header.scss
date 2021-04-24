@@ -1,0 +1,7 @@
+
+
+h1 {
+  color: $forestGreen;
+  font-family: $josefinSans;
+  @include fluid-font-size(5rem, 16rem);
+}
